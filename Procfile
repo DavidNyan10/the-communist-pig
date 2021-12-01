@@ -1,1 +1,0 @@
-Worker: node My_bot.js
